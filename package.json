@@ -1,0 +1,20 @@
+{
+  "name": "sennen-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "commonjs": "^0.0.1",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "type": "module"
+}
